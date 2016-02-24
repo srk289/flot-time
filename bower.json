@@ -1,0 +1,19 @@
+{
+  "name": "flot-basic",
+  "authors": [
+    "srk289@gmail.com"
+  ],
+  "description": "Flot with bower json",
+  "main": "jquery.flot.time.js, jquery.flot.canvas.js, excanvas.min.js, jquery.flot.axislabels.js",
+  "moduleType": [],
+  "keywords": [
+    "Flot",
+    "with",
+    "canvas",
+    "flottime",
+    "and",
+    "axislabels"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
